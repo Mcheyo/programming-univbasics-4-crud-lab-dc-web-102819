@@ -43,5 +43,6 @@ alphabet[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  alphabet = ["wow", "b", "am", "arrays!", "new"]
+alphabet[4] = "totally"
 end
